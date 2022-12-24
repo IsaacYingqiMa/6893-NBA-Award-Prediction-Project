@@ -12,7 +12,7 @@ The project is built using various service provided by Google Could Platform. To
 However, for simplicity of the demo, we have downloaded the four csv files and GCP is not required to open the web application. \
 Below are the detailed instructions:
 - open the demo folder
-- download html folder and open with vscode
+- download html folder and open with vscode \
 ![alt text](figure/figure1.png?raw=true)
-- right click on any html files and select Open with Live Server
+- right click on any html files and select Open with Live Server \
 ![alt text](figure/figure2.png?raw=true)

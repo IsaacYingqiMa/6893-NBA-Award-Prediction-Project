@@ -14,3 +14,5 @@ Below are the detailed instructions:
 - open the demo folder
 - download html folder and open with vscode
 ![alt text](figure/figure1.png?raw=true)
+- right click on any html files and select Open with Live Server
+![alt text](figure/figure2.png?raw=true)

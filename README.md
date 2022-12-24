@@ -13,3 +13,4 @@ However, for simplicity of the demo, we have downloaded the four csv files and G
 Below are the detailed instructions:
 - open the demo folder
 - download html folder and open with vscode
+![alt text](figure/figure1.png?raw=true)
